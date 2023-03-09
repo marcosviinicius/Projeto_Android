@@ -36,7 +36,7 @@ body {
 
 header {
     background-color: var(--cor0);
-    min-height: 180px;
+    min-height: 150px;
     text-align: center;
     padding-top: 40px;
 }
@@ -58,6 +58,7 @@ header p {
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 30px;
 }
 
 nav{
