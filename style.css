@@ -186,7 +186,7 @@ footer {
     padding: 8px;
 } 
  footer > a {
-    font-weight: :bolder;
+    font-weight:bolder;
     text-decoration: none;
     color:var(--cor1)
  }
